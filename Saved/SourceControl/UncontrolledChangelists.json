@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/wudiya/Documents/2023spring/415game/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/HUD.uasset",
+				"/Users/wudiya/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/wudiya/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"/Users/wudiya/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"/Users/wudiya/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Shooting.uasset",
+				"/Users/wudiya/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/wudiya/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/wudiya/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/UI/HUD.uasset",
+				"/Users/wudiya/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/wudiya/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/shakeing.uasset",
+				"/Users/wudiya/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/correctShake.uasset",
+				"/Users/wudiya/Downloads/InfiniteMatrixComplete/Content/InfiniteMatrix/Blueprints/BP_Shake.uasset"
+			]
+		}
+	]
+}
